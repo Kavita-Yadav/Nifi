@@ -11,11 +11,11 @@
 
 #### How to start nifi in terminal:
 = Start
-cd bin
-./nifi.sh run
+- cd /opt/nifi
+- ./nifi.sh run
 
 #### How to start nifi registery:
-cd /opt/nifi-registry/bin
-sudo ./nifi-registry.sh start
+-cd /opt/nifi-registry/bin
+-sudo ./nifi-registry.sh start
 # to stop 
-sudo ./nifi-registry.sh stop
+- sudo ./nifi-registry.sh stop
